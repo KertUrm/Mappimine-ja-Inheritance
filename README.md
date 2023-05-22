@@ -1,0 +1,2 @@
+# Mappimine ja Inheritance
+ 
